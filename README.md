@@ -93,8 +93,8 @@
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/xiaoxinxiaoxinxx/AI-.git
-cd AI-
+git clone https://github.com/xiaoxinxiaoxinxx/federated-stroke-prediction.git
+cd federated-stroke-prediction
 ```
 
 ### 2. 后端部署
